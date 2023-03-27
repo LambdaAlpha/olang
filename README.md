@@ -1,2 +1,3 @@
 # olang
-An experimental artificial language with the goal of being easy to learn
+
+Olang is an experimental artificial language with the goal of being easy to learn.
