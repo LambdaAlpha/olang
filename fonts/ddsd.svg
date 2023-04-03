@@ -1,0 +1,26 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+  <rect class="background" width="100%" height="100%" />
+  <style>
+    .background {
+      fill: white;
+    }
+
+    text {
+      font-size: 0.8em;
+      text-anchor: middle;
+      fill: black;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .background {
+        fill: black;
+      }
+
+      text {
+        fill: white;
+      }
+    }
+  </style>
+  <text x="25%" y="28%" dominant-baseline="central" transform="scale(2, 1)">v</text>
+  <text x="25%" y="72%" dominant-baseline="central" transform="scale(2, 1)">d</text>
+</svg>
