@@ -2,173 +2,173 @@
 ## cs
 ![cs](../fonts/cs.svg)
 
-[🔊](../phonemes.md#cs)
+[🔊](../syllables.md#cs)
 
 ## cj
 ![cj](../fonts/cj.svg)
 
-[🔊](../phonemes.md#cj)
+[🔊](../syllables.md#cj)
 
 ## j2
 ![j2](../fonts/j2.svg)
 
-[🔊](../phonemes.md#j2)
+[🔊](../syllables.md#j2)
 
 ## sr
 ![sr](../fonts/sr.svg)
 
-[🔊](../phonemes.md#sr)
+[🔊](../syllables.md#sr)
 
 ## sh
 ![sh](../fonts/sh.svg)
 
-[🔊](../phonemes.md#sh)
+[🔊](../syllables.md#sh)
 
 ## j3
 ![j3](../fonts/j3.svg)
 
-[🔊](../phonemes.md#j3)
+[🔊](../syllables.md#j3)
 
 ## st
 ![st](../fonts/st.svg)
 
-[🔊](../phonemes.md#st)
+[🔊](../syllables.md#st)
 
 ## sy
 ![sy](../fonts/sy.svg)
 
-[🔊](../phonemes.md#sy)
+[🔊](../syllables.md#sy)
 
 ## co
 ![co](../fonts/co.svg)
 
-[🔊](../phonemes.md#co)
+[🔊](../syllables.md#co)
 
 ## j6
 ![j6](../fonts/j6.svg)
 
-[🔊](../phonemes.md#j6)
+[🔊](../syllables.md#j6)
 
 ## sd
 ![sd](../fonts/sd.svg)
 
-[🔊](../phonemes.md#sd)
+[🔊](../syllables.md#sd)
 
 ## cd
 ![cd](../fonts/cd.svg)
 
-[🔊](../phonemes.md#cd)
+[🔊](../syllables.md#cd)
 
 ## se
 ![se](../fonts/se.svg)
 
-[🔊](../phonemes.md#se)
+[🔊](../syllables.md#se)
 
 ## rh
 ![rh](../fonts/rh.svg)
 
-[🔊](../phonemes.md#rh)
+[🔊](../syllables.md#rh)
 
 ## fi
 ![fi](../fonts/fi.svg)
 
-[🔊](../phonemes.md#fi)
+[🔊](../syllables.md#fi)
 
 ## j8
 ![j8](../fonts/j8.svg)
 
-[🔊](../phonemes.md#j8)
+[🔊](../syllables.md#j8)
 
 ## 1l
 ![1l](../fonts/1l.svg)
 
-[🔊](../phonemes.md#1l)
+[🔊](../syllables.md#1lcs)
 
 ## 2l
 ![2l](../fonts/2l.svg)
 
-[🔊](../phonemes.md#2l)
+[🔊](../syllables.md#2lcs)
 
 ## 3l
 ![3l](../fonts/3l.svg)
 
-[🔊](../phonemes.md#3l)
+[🔊](../syllables.md#3lcs)
 
 ## j1
 ![j1](../fonts/j1.svg)
 
-[🔊](../phonemes.md#j1)
+[🔊](../syllables.md#j1cs)
 
 ## ad
 ![ad](../fonts/ad.svg)
 
-[🔊](../phonemes.md#ad)
+[🔊](../syllables.md#adcs)
 
 [meaning](../concepts/directions.md#center)
 
 ## tt
 ![tt](../fonts/tt.svg)
 
-[🔊](../phonemes.md#tt)
+[🔊](../syllables.md#ttcs)
 
 [meaning](../concepts/directions.md#up)
 
 ## ct
 ![ct](../fonts/ct.svg)
 
-[🔊](../phonemes.md#ct)
+[🔊](../syllables.md#ctcs)
 
 [meaning](../concepts/directions.md#down)
 
 ## uu
 ![uu](../fonts/uu.svg)
 
-[🔊](../phonemes.md#uu)
+[🔊](../syllables.md#uucs)
 
 [meaning](../concepts/directions.md#front)
 
 ## dd
 ![dd](../fonts/dd.svg)
 
-[🔊](../phonemes.md#dd)
+[🔊](../syllables.md#ddcs)
 
 [meaning](../concepts/directions.md#back)
 
 ## ll
 ![ll](../fonts/ll.svg)
 
-[🔊](../phonemes.md#ll)
+[🔊](../syllables.md#llcs)
 
 [meaning](../concepts/directions.md#left)
 
 ## rr
 ![rr](../fonts/rr.svg)
 
-[🔊](../phonemes.md#rr)
+[🔊](../syllables.md#rrcs)
 
 [meaning](../concepts/directions.md#right)
 
 ## cl
 ![cl](../fonts/cl.svg)
 
-[🔊](../phonemes.md#cl)
+[🔊](../syllables.md#clcs)
 
 ## cn
 ![cn](../fonts/cn.svg)
 
-[🔊](../phonemes.md#cn)
+[🔊](../syllables.md#cncs)
 
 ## ua
 ![ua](../fonts/ua.svg)
 
-[🔊](../phonemes.md#ua)
+[🔊](../syllables.md#uacs)
 
 ## cy
 ![cy](../fonts/cy.svg)
 
-[🔊](../phonemes.md#cy)
+[🔊](../syllables.md#cycs)
 
 ## 1x
 ![1x](../fonts/1x.svg)
 
-[🔊](../phonemes.md#1x)
+[🔊](../syllables.md#1xcs)
