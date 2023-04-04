@@ -99,6 +99,11 @@
 
 [🔊](../syllables.md#j1cs)
 
+## cl
+![cl](../fonts/cl.svg)
+
+[🔊](../syllables.md#clcs)
+
 ## ad
 ![ad](../fonts/ad.svg)
 
@@ -148,25 +153,20 @@
 
 [meaning](../concepts/directions.md#right)
 
-## cl
-![cl](../fonts/cl.svg)
-
-[🔊](../syllables.md#clcs)
-
 ## cn
 ![cn](../fonts/cn.svg)
 
 [🔊](../syllables.md#cncs)
 
-## ua
-![ua](../fonts/ua.svg)
-
-[🔊](../syllables.md#uacs)
-
 ## cy
 ![cy](../fonts/cy.svg)
 
 [🔊](../syllables.md#cycs)
+
+## ua
+![ua](../fonts/ua.svg)
+
+[🔊](../syllables.md#uacs)
 
 ## 1x
 ![1x](../fonts/1x.svg)

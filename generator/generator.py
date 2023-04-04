@@ -31,53 +31,53 @@ cj1.name = "j1"
 cj1.phoneme = "p"
 cj1.syllable = "pa"
 
+ccl = Char()
+ccl.char = "L"
+ccl.name = "cl"
+ccl.phoneme = "w"
+ccl.syllable = "wa"
+
 cad = Char()
 cad.char = "+"
 cad.name = "ad"
-cad.phoneme = "w"
-cad.syllable = "wa"
+cad.phoneme = "n"
+cad.syllable = "na"
 
 ctt = Char()
 ctt.char = "Ʇ"
 ctt.name = "tt"
-ctt.phoneme = "n"
-ctt.syllable = "na"
+ctt.phoneme = "t"
+ctt.syllable = "ta"
 
 cct = Char()
 cct.char = "T"
 cct.name = "ct"
-cct.phoneme = "t"
-cct.syllable = "ta"
+cct.phoneme = "l"
+cct.syllable = "la"
 
 cuu = Char()
 cuu.char = "ʌ"
 cuu.name = "uu"
-cuu.phoneme = "l"
-cuu.syllable = "la"
+cuu.phoneme = "s"
+cuu.syllable = "sa"
 
 cdd = Char()
 cdd.char = "v"
 cdd.name = "dd"
-cdd.phoneme = "s"
-cdd.syllable = "sa"
+cdd.phoneme = "b"
+cdd.syllable = "ba"
 
 cll = Char()
 cll.char = "<"
 cll.name = "ll"
-cll.phoneme = "b"
-cll.syllable = "ba"
+cll.phoneme = "g"
+cll.syllable = "ga"
 
 crr = Char()
 crr.char = ">"
 crr.name = "rr"
-crr.phoneme = "g"
-crr.syllable = "ga"
-
-ccl = Char()
-ccl.char = "L"
-ccl.name = "cl"
-ccl.phoneme = "h"
-ccl.syllable = "ha"
+crr.phoneme = "h"
+crr.syllable = "ha"
 
 ccn = Char()
 ccn.char = "N"
@@ -85,17 +85,17 @@ ccn.name = "cn"
 ccn.phoneme = "d"
 ccn.syllable = "da"
 
-cua = Char()
-cua.char = "𐋇"
-cua.name = "ua"
-cua.phoneme = "r"
-cua.syllable = "ra"
-
 ccy = Char()
 ccy.char = "Y"
 ccy.name = "cy"
-ccy.phoneme = "f"
-ccy.syllable = "fa"
+ccy.phoneme = "r"
+ccy.syllable = "ra"
+
+cua = Char()
+cua.char = "𐋇"
+cua.name = "ua"
+cua.phoneme = "f"
+cua.syllable = "fa"
 
 c1x = Char()
 c1x.char = "𐋁"
@@ -103,8 +103,8 @@ c1x.name = "1x"
 c1x.phoneme = "tʃ"
 c1x.syllable = "tʃa"
 
-consonants = [c1l, c2l, c3l, cj1, cad, ctt, cct, cuu,
-              cdd, cll, crr, ccl, ccn, cua, ccy, c1x]
+consonants = [c1l, c2l, c3l, cj1, ccl, cad, ctt, cct,
+              cuu, cdd, cll, crr, ccn, ccy, cua, c1x]
 
 ccs = Char()
 ccs.char = "S"

@@ -382,6 +382,102 @@
 
 [🔊](../syllables.md#j1j8)
 
+# clcs
+
+![clcs](../fonts/clcs.svg)
+
+[🔊](../syllables.md#clcs)
+
+# clcj
+
+![clcj](../fonts/clcj.svg)
+
+[🔊](../syllables.md#clcj)
+
+# clj2
+
+![clj2](../fonts/clj2.svg)
+
+[🔊](../syllables.md#clj2)
+
+# clsr
+
+![clsr](../fonts/clsr.svg)
+
+[🔊](../syllables.md#clsr)
+
+# clsh
+
+![clsh](../fonts/clsh.svg)
+
+[🔊](../syllables.md#clsh)
+
+# clj3
+
+![clj3](../fonts/clj3.svg)
+
+[🔊](../syllables.md#clj3)
+
+# clst
+
+![clst](../fonts/clst.svg)
+
+[🔊](../syllables.md#clst)
+
+# clsy
+
+![clsy](../fonts/clsy.svg)
+
+[🔊](../syllables.md#clsy)
+
+# clco
+
+![clco](../fonts/clco.svg)
+
+[🔊](../syllables.md#clco)
+
+# clj6
+
+![clj6](../fonts/clj6.svg)
+
+[🔊](../syllables.md#clj6)
+
+# clsd
+
+![clsd](../fonts/clsd.svg)
+
+[🔊](../syllables.md#clsd)
+
+# clcd
+
+![clcd](../fonts/clcd.svg)
+
+[🔊](../syllables.md#clcd)
+
+# clse
+
+![clse](../fonts/clse.svg)
+
+[🔊](../syllables.md#clse)
+
+# clrh
+
+![clrh](../fonts/clrh.svg)
+
+[🔊](../syllables.md#clrh)
+
+# clfi
+
+![clfi](../fonts/clfi.svg)
+
+[🔊](../syllables.md#clfi)
+
+# clj8
+
+![clj8](../fonts/clj8.svg)
+
+[🔊](../syllables.md#clj8)
+
 # adcs
 
 ![adcs](../fonts/adcs.svg)
@@ -1054,102 +1150,6 @@
 
 [🔊](../syllables.md#rrj8)
 
-# clcs
-
-![clcs](../fonts/clcs.svg)
-
-[🔊](../syllables.md#clcs)
-
-# clcj
-
-![clcj](../fonts/clcj.svg)
-
-[🔊](../syllables.md#clcj)
-
-# clj2
-
-![clj2](../fonts/clj2.svg)
-
-[🔊](../syllables.md#clj2)
-
-# clsr
-
-![clsr](../fonts/clsr.svg)
-
-[🔊](../syllables.md#clsr)
-
-# clsh
-
-![clsh](../fonts/clsh.svg)
-
-[🔊](../syllables.md#clsh)
-
-# clj3
-
-![clj3](../fonts/clj3.svg)
-
-[🔊](../syllables.md#clj3)
-
-# clst
-
-![clst](../fonts/clst.svg)
-
-[🔊](../syllables.md#clst)
-
-# clsy
-
-![clsy](../fonts/clsy.svg)
-
-[🔊](../syllables.md#clsy)
-
-# clco
-
-![clco](../fonts/clco.svg)
-
-[🔊](../syllables.md#clco)
-
-# clj6
-
-![clj6](../fonts/clj6.svg)
-
-[🔊](../syllables.md#clj6)
-
-# clsd
-
-![clsd](../fonts/clsd.svg)
-
-[🔊](../syllables.md#clsd)
-
-# clcd
-
-![clcd](../fonts/clcd.svg)
-
-[🔊](../syllables.md#clcd)
-
-# clse
-
-![clse](../fonts/clse.svg)
-
-[🔊](../syllables.md#clse)
-
-# clrh
-
-![clrh](../fonts/clrh.svg)
-
-[🔊](../syllables.md#clrh)
-
-# clfi
-
-![clfi](../fonts/clfi.svg)
-
-[🔊](../syllables.md#clfi)
-
-# clj8
-
-![clj8](../fonts/clj8.svg)
-
-[🔊](../syllables.md#clj8)
-
 # cncs
 
 ![cncs](../fonts/cncs.svg)
@@ -1246,102 +1246,6 @@
 
 [🔊](../syllables.md#cnj8)
 
-# uacs
-
-![uacs](../fonts/uacs.svg)
-
-[🔊](../syllables.md#uacs)
-
-# uacj
-
-![uacj](../fonts/uacj.svg)
-
-[🔊](../syllables.md#uacj)
-
-# uaj2
-
-![uaj2](../fonts/uaj2.svg)
-
-[🔊](../syllables.md#uaj2)
-
-# uasr
-
-![uasr](../fonts/uasr.svg)
-
-[🔊](../syllables.md#uasr)
-
-# uash
-
-![uash](../fonts/uash.svg)
-
-[🔊](../syllables.md#uash)
-
-# uaj3
-
-![uaj3](../fonts/uaj3.svg)
-
-[🔊](../syllables.md#uaj3)
-
-# uast
-
-![uast](../fonts/uast.svg)
-
-[🔊](../syllables.md#uast)
-
-# uasy
-
-![uasy](../fonts/uasy.svg)
-
-[🔊](../syllables.md#uasy)
-
-# uaco
-
-![uaco](../fonts/uaco.svg)
-
-[🔊](../syllables.md#uaco)
-
-# uaj6
-
-![uaj6](../fonts/uaj6.svg)
-
-[🔊](../syllables.md#uaj6)
-
-# uasd
-
-![uasd](../fonts/uasd.svg)
-
-[🔊](../syllables.md#uasd)
-
-# uacd
-
-![uacd](../fonts/uacd.svg)
-
-[🔊](../syllables.md#uacd)
-
-# uase
-
-![uase](../fonts/uase.svg)
-
-[🔊](../syllables.md#uase)
-
-# uarh
-
-![uarh](../fonts/uarh.svg)
-
-[🔊](../syllables.md#uarh)
-
-# uafi
-
-![uafi](../fonts/uafi.svg)
-
-[🔊](../syllables.md#uafi)
-
-# uaj8
-
-![uaj8](../fonts/uaj8.svg)
-
-[🔊](../syllables.md#uaj8)
-
 # cycs
 
 ![cycs](../fonts/cycs.svg)
@@ -1437,6 +1341,102 @@
 ![cyj8](../fonts/cyj8.svg)
 
 [🔊](../syllables.md#cyj8)
+
+# uacs
+
+![uacs](../fonts/uacs.svg)
+
+[🔊](../syllables.md#uacs)
+
+# uacj
+
+![uacj](../fonts/uacj.svg)
+
+[🔊](../syllables.md#uacj)
+
+# uaj2
+
+![uaj2](../fonts/uaj2.svg)
+
+[🔊](../syllables.md#uaj2)
+
+# uasr
+
+![uasr](../fonts/uasr.svg)
+
+[🔊](../syllables.md#uasr)
+
+# uash
+
+![uash](../fonts/uash.svg)
+
+[🔊](../syllables.md#uash)
+
+# uaj3
+
+![uaj3](../fonts/uaj3.svg)
+
+[🔊](../syllables.md#uaj3)
+
+# uast
+
+![uast](../fonts/uast.svg)
+
+[🔊](../syllables.md#uast)
+
+# uasy
+
+![uasy](../fonts/uasy.svg)
+
+[🔊](../syllables.md#uasy)
+
+# uaco
+
+![uaco](../fonts/uaco.svg)
+
+[🔊](../syllables.md#uaco)
+
+# uaj6
+
+![uaj6](../fonts/uaj6.svg)
+
+[🔊](../syllables.md#uaj6)
+
+# uasd
+
+![uasd](../fonts/uasd.svg)
+
+[🔊](../syllables.md#uasd)
+
+# uacd
+
+![uacd](../fonts/uacd.svg)
+
+[🔊](../syllables.md#uacd)
+
+# uase
+
+![uase](../fonts/uase.svg)
+
+[🔊](../syllables.md#uase)
+
+# uarh
+
+![uarh](../fonts/uarh.svg)
+
+[🔊](../syllables.md#uarh)
+
+# uafi
+
+![uafi](../fonts/uafi.svg)
+
+[🔊](../syllables.md#uafi)
+
+# uaj8
+
+![uaj8](../fonts/uaj8.svg)
+
+[🔊](../syllables.md#uaj8)
 
 # 1xcs
 

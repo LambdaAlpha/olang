@@ -19,6 +19,11 @@
 
 just 1
 
+# cl
+## L
+
+capital l
+
 # ad
 ## \+
 
@@ -54,25 +59,20 @@ left
 
 right
 
-# cl
-## L
-
-capital l
-
 # cn
 ## N
 
 capital n
 
-# ua
-## 𐋇
-
-Up arrow
-
 # cy
 ## Y
 
 capital y
+
+# ua
+## 𐋇
+
+Up arrow
 
 # 1x
 ## 𐋁
