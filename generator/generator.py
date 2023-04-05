@@ -157,8 +157,8 @@ csy.syllable = "y"
 cco = Char()
 cco.char = "O"
 cco.name = "co"
-cco.phoneme = "ai"
-cco.syllable = "ai"
+cco.phoneme = "ia"
+cco.syllable = "ia"
 
 cj6 = Char()
 cj6.char = "6"
@@ -169,38 +169,38 @@ cj6.syllable = "iu"
 csd = Char()
 csd.char = "d"
 csd.name = "sd"
-csd.phoneme = "ua"
-csd.syllable = "ua"
+csd.phoneme = "ie"
+csd.syllable = "ie"
 
 ccd = Char()
 ccd.char = "D"
 ccd.name = "cd"
-ccd.phoneme = "au"
-ccd.syllable = "au"
+ccd.phoneme = "ye"
+ccd.syllable = "ye"
 
 cse = Char()
 cse.char = "e"
 cse.name = "se"
-cse.phoneme = "ui"
-cse.syllable = "ui"
+cse.phoneme = "ua"
+cse.syllable = "ua"
 
 crh = Char()
 crh.char = "ɤ"
 crh.name = "rh"
-crh.phoneme = "ia"
-crh.syllable = "ia"
+crh.phoneme = "ui"
+crh.syllable = "ui"
 
 cfi = Char()
 cfi.char = "ɸ"
 cfi.name = "fi"
-cfi.phoneme = "io"
+cfi.phoneme = "uo"
 cfi.syllable = "io"
 
 cj8 = Char()
 cj8.char = "8"
 cj8.name = "j8"
-cj8.phoneme = "oi"
-cj8.syllable = "oi"
+cj8.phoneme = "ai"
+cj8.syllable = "ai"
 
 vowels = [ccs, ccj, cj2, csr, csh, cj3, cst, csy,
           cco, cj6, csd, ccd, cse, crh, cfi, cj8]

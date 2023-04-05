@@ -50,7 +50,7 @@
 
 ![co](fonts/co.svg)
 
-🔊 /ai/
+🔊 /ia/
 
 # j6
 
@@ -62,37 +62,37 @@
 
 ![sd](fonts/sd.svg)
 
-🔊 /ua/
+🔊 /ie/
 
 # cd
 
 ![cd](fonts/cd.svg)
 
-🔊 /au/
+🔊 /ye/
 
 # se
 
 ![se](fonts/se.svg)
 
-🔊 /ui/
+🔊 /ua/
 
 # rh
 
 ![rh](fonts/rh.svg)
 
-🔊 /ia/
+🔊 /ui/
 
 # fi
 
 ![fi](fonts/fi.svg)
 
-🔊 /io/
+🔊 /uo/
 
 # j8
 
 ![j8](fonts/j8.svg)
 
-🔊 /oi/
+🔊 /ai/
 
 # 1lcs
 
@@ -146,7 +146,7 @@
 
 ![1lco](fonts/1lco.svg)
 
-🔊 /kai/
+🔊 /kia/
 
 # 1lj6
 
@@ -158,37 +158,37 @@
 
 ![1lsd](fonts/1lsd.svg)
 
-🔊 /kua/
+🔊 /kie/
 
 # 1lcd
 
 ![1lcd](fonts/1lcd.svg)
 
-🔊 /kau/
+🔊 /kye/
 
 # 1lse
 
 ![1lse](fonts/1lse.svg)
 
-🔊 /kui/
+🔊 /kua/
 
 # 1lrh
 
 ![1lrh](fonts/1lrh.svg)
 
-🔊 /kia/
+🔊 /kui/
 
 # 1lfi
 
 ![1lfi](fonts/1lfi.svg)
 
-🔊 /kio/
+🔊 /kuo/
 
 # 1lj8
 
 ![1lj8](fonts/1lj8.svg)
 
-🔊 /koi/
+🔊 /kai/
 
 # 2lcs
 
@@ -242,7 +242,7 @@
 
 ![2lco](fonts/2lco.svg)
 
-🔊 /gai/
+🔊 /gia/
 
 # 2lj6
 
@@ -254,37 +254,37 @@
 
 ![2lsd](fonts/2lsd.svg)
 
-🔊 /gua/
+🔊 /gie/
 
 # 2lcd
 
 ![2lcd](fonts/2lcd.svg)
 
-🔊 /gau/
+🔊 /gye/
 
 # 2lse
 
 ![2lse](fonts/2lse.svg)
 
-🔊 /gui/
+🔊 /gua/
 
 # 2lrh
 
 ![2lrh](fonts/2lrh.svg)
 
-🔊 /gia/
+🔊 /gui/
 
 # 2lfi
 
 ![2lfi](fonts/2lfi.svg)
 
-🔊 /gio/
+🔊 /guo/
 
 # 2lj8
 
 ![2lj8](fonts/2lj8.svg)
 
-🔊 /goi/
+🔊 /gai/
 
 # 3lcs
 
@@ -338,7 +338,7 @@
 
 ![3lco](fonts/3lco.svg)
 
-🔊 /pai/
+🔊 /pia/
 
 # 3lj6
 
@@ -350,37 +350,37 @@
 
 ![3lsd](fonts/3lsd.svg)
 
-🔊 /pua/
+🔊 /pie/
 
 # 3lcd
 
 ![3lcd](fonts/3lcd.svg)
 
-🔊 /pau/
+🔊 /pye/
 
 # 3lse
 
 ![3lse](fonts/3lse.svg)
 
-🔊 /pui/
+🔊 /pua/
 
 # 3lrh
 
 ![3lrh](fonts/3lrh.svg)
 
-🔊 /pia/
+🔊 /pui/
 
 # 3lfi
 
 ![3lfi](fonts/3lfi.svg)
 
-🔊 /pio/
+🔊 /puo/
 
 # 3lj8
 
 ![3lj8](fonts/3lj8.svg)
 
-🔊 /poi/
+🔊 /pai/
 
 # j1cs
 
@@ -434,7 +434,7 @@
 
 ![j1co](fonts/j1co.svg)
 
-🔊 /bai/
+🔊 /bia/
 
 # j1j6
 
@@ -446,37 +446,37 @@
 
 ![j1sd](fonts/j1sd.svg)
 
-🔊 /bua/
+🔊 /bie/
 
 # j1cd
 
 ![j1cd](fonts/j1cd.svg)
 
-🔊 /bau/
+🔊 /bye/
 
 # j1se
 
 ![j1se](fonts/j1se.svg)
 
-🔊 /bui/
+🔊 /bua/
 
 # j1rh
 
 ![j1rh](fonts/j1rh.svg)
 
-🔊 /bia/
+🔊 /bui/
 
 # j1fi
 
 ![j1fi](fonts/j1fi.svg)
 
-🔊 /bio/
+🔊 /buo/
 
 # j1j8
 
 ![j1j8](fonts/j1j8.svg)
 
-🔊 /boi/
+🔊 /bai/
 
 # clcs
 
@@ -530,7 +530,7 @@
 
 ![clco](fonts/clco.svg)
 
-🔊 /tai/
+🔊 /tia/
 
 # clj6
 
@@ -542,37 +542,37 @@
 
 ![clsd](fonts/clsd.svg)
 
-🔊 /tua/
+🔊 /tie/
 
 # clcd
 
 ![clcd](fonts/clcd.svg)
 
-🔊 /tau/
+🔊 /tye/
 
 # clse
 
 ![clse](fonts/clse.svg)
 
-🔊 /tui/
+🔊 /tua/
 
 # clrh
 
 ![clrh](fonts/clrh.svg)
 
-🔊 /tia/
+🔊 /tui/
 
 # clfi
 
 ![clfi](fonts/clfi.svg)
 
-🔊 /tio/
+🔊 /tuo/
 
 # clj8
 
 ![clj8](fonts/clj8.svg)
 
-🔊 /toi/
+🔊 /tai/
 
 # adcs
 
@@ -626,7 +626,7 @@
 
 ![adco](fonts/adco.svg)
 
-🔊 /dai/
+🔊 /dia/
 
 # adj6
 
@@ -638,37 +638,37 @@
 
 ![adsd](fonts/adsd.svg)
 
-🔊 /dua/
+🔊 /die/
 
 # adcd
 
 ![adcd](fonts/adcd.svg)
 
-🔊 /dau/
+🔊 /dye/
 
 # adse
 
 ![adse](fonts/adse.svg)
 
-🔊 /dui/
+🔊 /dua/
 
 # adrh
 
 ![adrh](fonts/adrh.svg)
 
-🔊 /dia/
+🔊 /dui/
 
 # adfi
 
 ![adfi](fonts/adfi.svg)
 
-🔊 /dio/
+🔊 /duo/
 
 # adj8
 
 ![adj8](fonts/adj8.svg)
 
-🔊 /doi/
+🔊 /dai/
 
 # ttcs
 
@@ -722,7 +722,7 @@
 
 ![ttco](fonts/ttco.svg)
 
-🔊 /fai/
+🔊 /fia/
 
 # ttj6
 
@@ -734,37 +734,37 @@
 
 ![ttsd](fonts/ttsd.svg)
 
-🔊 /fua/
+🔊 /fie/
 
 # ttcd
 
 ![ttcd](fonts/ttcd.svg)
 
-🔊 /fau/
+🔊 /fye/
 
 # ttse
 
 ![ttse](fonts/ttse.svg)
 
-🔊 /fui/
+🔊 /fua/
 
 # ttrh
 
 ![ttrh](fonts/ttrh.svg)
 
-🔊 /fia/
+🔊 /fui/
 
 # ttfi
 
 ![ttfi](fonts/ttfi.svg)
 
-🔊 /fio/
+🔊 /fuo/
 
 # ttj8
 
 ![ttj8](fonts/ttj8.svg)
 
-🔊 /foi/
+🔊 /fai/
 
 # ctcs
 
@@ -818,7 +818,7 @@
 
 ![ctco](fonts/ctco.svg)
 
-🔊 /vai/
+🔊 /via/
 
 # ctj6
 
@@ -830,37 +830,37 @@
 
 ![ctsd](fonts/ctsd.svg)
 
-🔊 /vua/
+🔊 /vie/
 
 # ctcd
 
 ![ctcd](fonts/ctcd.svg)
 
-🔊 /vau/
+🔊 /vye/
 
 # ctse
 
 ![ctse](fonts/ctse.svg)
 
-🔊 /vui/
+🔊 /vua/
 
 # ctrh
 
 ![ctrh](fonts/ctrh.svg)
 
-🔊 /via/
+🔊 /vui/
 
 # ctfi
 
 ![ctfi](fonts/ctfi.svg)
 
-🔊 /vio/
+🔊 /vuo/
 
 # ctj8
 
 ![ctj8](fonts/ctj8.svg)
 
-🔊 /voi/
+🔊 /vai/
 
 # uucs
 
@@ -914,7 +914,7 @@
 
 ![uuco](fonts/uuco.svg)
 
-🔊 /mai/
+🔊 /mia/
 
 # uuj6
 
@@ -926,37 +926,37 @@
 
 ![uusd](fonts/uusd.svg)
 
-🔊 /mua/
+🔊 /mie/
 
 # uucd
 
 ![uucd](fonts/uucd.svg)
 
-🔊 /mau/
+🔊 /mye/
 
 # uuse
 
 ![uuse](fonts/uuse.svg)
 
-🔊 /mui/
+🔊 /mua/
 
 # uurh
 
 ![uurh](fonts/uurh.svg)
 
-🔊 /mia/
+🔊 /mui/
 
 # uufi
 
 ![uufi](fonts/uufi.svg)
 
-🔊 /mio/
+🔊 /muo/
 
 # uuj8
 
 ![uuj8](fonts/uuj8.svg)
 
-🔊 /moi/
+🔊 /mai/
 
 # ddcs
 
@@ -1010,7 +1010,7 @@
 
 ![ddco](fonts/ddco.svg)
 
-🔊 /nai/
+🔊 /nia/
 
 # ddj6
 
@@ -1022,37 +1022,37 @@
 
 ![ddsd](fonts/ddsd.svg)
 
-🔊 /nua/
+🔊 /nie/
 
 # ddcd
 
 ![ddcd](fonts/ddcd.svg)
 
-🔊 /nau/
+🔊 /nye/
 
 # ddse
 
 ![ddse](fonts/ddse.svg)
 
-🔊 /nui/
+🔊 /nua/
 
 # ddrh
 
 ![ddrh](fonts/ddrh.svg)
 
-🔊 /nia/
+🔊 /nui/
 
 # ddfi
 
 ![ddfi](fonts/ddfi.svg)
 
-🔊 /nio/
+🔊 /nuo/
 
 # ddj8
 
 ![ddj8](fonts/ddj8.svg)
 
-🔊 /noi/
+🔊 /nai/
 
 # llcs
 
@@ -1106,7 +1106,7 @@
 
 ![llco](fonts/llco.svg)
 
-🔊 /lai/
+🔊 /lia/
 
 # llj6
 
@@ -1118,37 +1118,37 @@
 
 ![llsd](fonts/llsd.svg)
 
-🔊 /lua/
+🔊 /lie/
 
 # llcd
 
 ![llcd](fonts/llcd.svg)
 
-🔊 /lau/
+🔊 /lye/
 
 # llse
 
 ![llse](fonts/llse.svg)
 
-🔊 /lui/
+🔊 /lua/
 
 # llrh
 
 ![llrh](fonts/llrh.svg)
 
-🔊 /lia/
+🔊 /lui/
 
 # llfi
 
 ![llfi](fonts/llfi.svg)
 
-🔊 /lio/
+🔊 /luo/
 
 # llj8
 
 ![llj8](fonts/llj8.svg)
 
-🔊 /loi/
+🔊 /lai/
 
 # rrcs
 
@@ -1202,7 +1202,7 @@
 
 ![rrco](fonts/rrco.svg)
 
-🔊 /hai/
+🔊 /hia/
 
 # rrj6
 
@@ -1214,37 +1214,37 @@
 
 ![rrsd](fonts/rrsd.svg)
 
-🔊 /hua/
+🔊 /hie/
 
 # rrcd
 
 ![rrcd](fonts/rrcd.svg)
 
-🔊 /hau/
+🔊 /hye/
 
 # rrse
 
 ![rrse](fonts/rrse.svg)
 
-🔊 /hui/
+🔊 /hua/
 
 # rrrh
 
 ![rrrh](fonts/rrrh.svg)
 
-🔊 /hia/
+🔊 /hui/
 
 # rrfi
 
 ![rrfi](fonts/rrfi.svg)
 
-🔊 /hio/
+🔊 /huo/
 
 # rrj8
 
 ![rrj8](fonts/rrj8.svg)
 
-🔊 /hoi/
+🔊 /hai/
 
 # cncs
 
@@ -1298,7 +1298,7 @@
 
 ![cnco](fonts/cnco.svg)
 
-🔊 /sai/
+🔊 /sia/
 
 # cnj6
 
@@ -1310,37 +1310,37 @@
 
 ![cnsd](fonts/cnsd.svg)
 
-🔊 /sua/
+🔊 /sie/
 
 # cncd
 
 ![cncd](fonts/cncd.svg)
 
-🔊 /sau/
+🔊 /sye/
 
 # cnse
 
 ![cnse](fonts/cnse.svg)
 
-🔊 /sui/
+🔊 /sua/
 
 # cnrh
 
 ![cnrh](fonts/cnrh.svg)
 
-🔊 /sia/
+🔊 /sui/
 
 # cnfi
 
 ![cnfi](fonts/cnfi.svg)
 
-🔊 /sio/
+🔊 /suo/
 
 # cnj8
 
 ![cnj8](fonts/cnj8.svg)
 
-🔊 /soi/
+🔊 /sai/
 
 # cycs
 
@@ -1394,7 +1394,7 @@
 
 ![cyco](fonts/cyco.svg)
 
-🔊 /zai/
+🔊 /zia/
 
 # cyj6
 
@@ -1406,37 +1406,37 @@
 
 ![cysd](fonts/cysd.svg)
 
-🔊 /zua/
+🔊 /zie/
 
 # cycd
 
 ![cycd](fonts/cycd.svg)
 
-🔊 /zau/
+🔊 /zye/
 
 # cyse
 
 ![cyse](fonts/cyse.svg)
 
-🔊 /zui/
+🔊 /zua/
 
 # cyrh
 
 ![cyrh](fonts/cyrh.svg)
 
-🔊 /zia/
+🔊 /zui/
 
 # cyfi
 
 ![cyfi](fonts/cyfi.svg)
 
-🔊 /zio/
+🔊 /zuo/
 
 # cyj8
 
 ![cyj8](fonts/cyj8.svg)
 
-🔊 /zoi/
+🔊 /zai/
 
 # uacs
 
@@ -1490,7 +1490,7 @@
 
 ![uaco](fonts/uaco.svg)
 
-🔊 /tʃai/
+🔊 /tʃia/
 
 # uaj6
 
@@ -1502,37 +1502,37 @@
 
 ![uasd](fonts/uasd.svg)
 
-🔊 /tʃua/
+🔊 /tʃie/
 
 # uacd
 
 ![uacd](fonts/uacd.svg)
 
-🔊 /tʃau/
+🔊 /tʃye/
 
 # uase
 
 ![uase](fonts/uase.svg)
 
-🔊 /tʃui/
+🔊 /tʃua/
 
 # uarh
 
 ![uarh](fonts/uarh.svg)
 
-🔊 /tʃia/
+🔊 /tʃui/
 
 # uafi
 
 ![uafi](fonts/uafi.svg)
 
-🔊 /tʃio/
+🔊 /tʃuo/
 
 # uaj8
 
 ![uaj8](fonts/uaj8.svg)
 
-🔊 /tʃoi/
+🔊 /tʃai/
 
 # 1xcs
 
@@ -1586,7 +1586,7 @@
 
 ![1xco](fonts/1xco.svg)
 
-🔊 /dʒai/
+🔊 /dʒia/
 
 # 1xj6
 
@@ -1598,35 +1598,35 @@
 
 ![1xsd](fonts/1xsd.svg)
 
-🔊 /dʒua/
+🔊 /dʒie/
 
 # 1xcd
 
 ![1xcd](fonts/1xcd.svg)
 
-🔊 /dʒau/
+🔊 /dʒye/
 
 # 1xse
 
 ![1xse](fonts/1xse.svg)
 
-🔊 /dʒui/
+🔊 /dʒua/
 
 # 1xrh
 
 ![1xrh](fonts/1xrh.svg)
 
-🔊 /dʒia/
+🔊 /dʒui/
 
 # 1xfi
 
 ![1xfi](fonts/1xfi.svg)
 
-🔊 /dʒio/
+🔊 /dʒuo/
 
 # 1xj8
 
 ![1xj8](fonts/1xj8.svg)
 
-🔊 /dʒoi/
+🔊 /dʒai/
 

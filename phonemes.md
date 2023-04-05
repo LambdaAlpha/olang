@@ -44,7 +44,7 @@
 ## co
 ![co](fonts/co.svg)
 
-🔊: /ai/
+🔊: /ia/
 
 ## j6
 ![j6](fonts/j6.svg)
@@ -54,32 +54,32 @@
 ## sd
 ![sd](fonts/sd.svg)
 
-🔊: /ua/
+🔊: /ie/
 
 ## cd
 ![cd](fonts/cd.svg)
 
-🔊: /au/
+🔊: /ye/
 
 ## se
 ![se](fonts/se.svg)
 
-🔊: /ui/
+🔊: /ua/
 
 ## rh
 ![rh](fonts/rh.svg)
 
-🔊: /ia/
+🔊: /ui/
 
 ## fi
 ![fi](fonts/fi.svg)
 
-🔊: /io/
+🔊: /uo/
 
 ## j8
 ![j8](fonts/j8.svg)
 
-🔊: /oi/
+🔊: /ai/
 
 # consonants
 
