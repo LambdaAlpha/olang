@@ -133,20 +133,20 @@ csr.syllable = "ɔ"
 csh = Char()
 csh.char = "h"
 csh.name = "sh"
-csh.phoneme = "e"
-csh.syllable = "e"
+csh.phoneme = "o"
+csh.syllable = "o"
 
 cj3 = Char()
 cj3.char = "3"
 cj3.name = "j3"
-cj3.phoneme = "o"
-cj3.syllable = "o"
+cj3.phoneme = "ə"
+cj3.syllable = "ə"
 
 cst = Char()
 cst.char = "t"
 cst.name = "st"
-cst.phoneme = "ə"
-cst.syllable = "ə"
+cst.phoneme = "e"
+cst.syllable = "e"
 
 csy = Char()
 csy.char = "y"

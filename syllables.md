@@ -26,19 +26,19 @@
 
 ![sh](fonts/sh.svg)
 
-🔊 /e/
+🔊 /o/
 
 # j3
 
 ![j3](fonts/j3.svg)
 
-🔊 /o/
+🔊 /ə/
 
 # st
 
 ![st](fonts/st.svg)
 
-🔊 /ə/
+🔊 /e/
 
 # sy
 
@@ -122,19 +122,19 @@
 
 ![1lsh](fonts/1lsh.svg)
 
-🔊 /ke/
+🔊 /ko/
 
 # 1lj3
 
 ![1lj3](fonts/1lj3.svg)
 
-🔊 /ko/
+🔊 /kə/
 
 # 1lst
 
 ![1lst](fonts/1lst.svg)
 
-🔊 /kə/
+🔊 /ke/
 
 # 1lsy
 
@@ -218,19 +218,19 @@
 
 ![2lsh](fonts/2lsh.svg)
 
-🔊 /ge/
+🔊 /go/
 
 # 2lj3
 
 ![2lj3](fonts/2lj3.svg)
 
-🔊 /go/
+🔊 /gə/
 
 # 2lst
 
 ![2lst](fonts/2lst.svg)
 
-🔊 /gə/
+🔊 /ge/
 
 # 2lsy
 
@@ -314,19 +314,19 @@
 
 ![3lsh](fonts/3lsh.svg)
 
-🔊 /pe/
+🔊 /po/
 
 # 3lj3
 
 ![3lj3](fonts/3lj3.svg)
 
-🔊 /po/
+🔊 /pə/
 
 # 3lst
 
 ![3lst](fonts/3lst.svg)
 
-🔊 /pə/
+🔊 /pe/
 
 # 3lsy
 
@@ -410,19 +410,19 @@
 
 ![j1sh](fonts/j1sh.svg)
 
-🔊 /be/
+🔊 /bo/
 
 # j1j3
 
 ![j1j3](fonts/j1j3.svg)
 
-🔊 /bo/
+🔊 /bə/
 
 # j1st
 
 ![j1st](fonts/j1st.svg)
 
-🔊 /bə/
+🔊 /be/
 
 # j1sy
 
@@ -506,19 +506,19 @@
 
 ![clsh](fonts/clsh.svg)
 
-🔊 /te/
+🔊 /to/
 
 # clj3
 
 ![clj3](fonts/clj3.svg)
 
-🔊 /to/
+🔊 /tə/
 
 # clst
 
 ![clst](fonts/clst.svg)
 
-🔊 /tə/
+🔊 /te/
 
 # clsy
 
@@ -602,19 +602,19 @@
 
 ![adsh](fonts/adsh.svg)
 
-🔊 /de/
+🔊 /do/
 
 # adj3
 
 ![adj3](fonts/adj3.svg)
 
-🔊 /do/
+🔊 /də/
 
 # adst
 
 ![adst](fonts/adst.svg)
 
-🔊 /də/
+🔊 /de/
 
 # adsy
 
@@ -698,19 +698,19 @@
 
 ![ttsh](fonts/ttsh.svg)
 
-🔊 /fe/
+🔊 /fo/
 
 # ttj3
 
 ![ttj3](fonts/ttj3.svg)
 
-🔊 /fo/
+🔊 /fə/
 
 # ttst
 
 ![ttst](fonts/ttst.svg)
 
-🔊 /fə/
+🔊 /fe/
 
 # ttsy
 
@@ -794,19 +794,19 @@
 
 ![ctsh](fonts/ctsh.svg)
 
-🔊 /ve/
+🔊 /vo/
 
 # ctj3
 
 ![ctj3](fonts/ctj3.svg)
 
-🔊 /vo/
+🔊 /və/
 
 # ctst
 
 ![ctst](fonts/ctst.svg)
 
-🔊 /və/
+🔊 /ve/
 
 # ctsy
 
@@ -890,19 +890,19 @@
 
 ![uush](fonts/uush.svg)
 
-🔊 /me/
+🔊 /mo/
 
 # uuj3
 
 ![uuj3](fonts/uuj3.svg)
 
-🔊 /mo/
+🔊 /mə/
 
 # uust
 
 ![uust](fonts/uust.svg)
 
-🔊 /mə/
+🔊 /me/
 
 # uusy
 
@@ -986,19 +986,19 @@
 
 ![ddsh](fonts/ddsh.svg)
 
-🔊 /ne/
+🔊 /no/
 
 # ddj3
 
 ![ddj3](fonts/ddj3.svg)
 
-🔊 /no/
+🔊 /nə/
 
 # ddst
 
 ![ddst](fonts/ddst.svg)
 
-🔊 /nə/
+🔊 /ne/
 
 # ddsy
 
@@ -1082,19 +1082,19 @@
 
 ![llsh](fonts/llsh.svg)
 
-🔊 /le/
+🔊 /lo/
 
 # llj3
 
 ![llj3](fonts/llj3.svg)
 
-🔊 /lo/
+🔊 /lə/
 
 # llst
 
 ![llst](fonts/llst.svg)
 
-🔊 /lə/
+🔊 /le/
 
 # llsy
 
@@ -1178,19 +1178,19 @@
 
 ![rrsh](fonts/rrsh.svg)
 
-🔊 /he/
+🔊 /ho/
 
 # rrj3
 
 ![rrj3](fonts/rrj3.svg)
 
-🔊 /ho/
+🔊 /hə/
 
 # rrst
 
 ![rrst](fonts/rrst.svg)
 
-🔊 /hə/
+🔊 /he/
 
 # rrsy
 
@@ -1274,19 +1274,19 @@
 
 ![cnsh](fonts/cnsh.svg)
 
-🔊 /se/
+🔊 /so/
 
 # cnj3
 
 ![cnj3](fonts/cnj3.svg)
 
-🔊 /so/
+🔊 /sə/
 
 # cnst
 
 ![cnst](fonts/cnst.svg)
 
-🔊 /sə/
+🔊 /se/
 
 # cnsy
 
@@ -1370,19 +1370,19 @@
 
 ![cysh](fonts/cysh.svg)
 
-🔊 /ze/
+🔊 /zo/
 
 # cyj3
 
 ![cyj3](fonts/cyj3.svg)
 
-🔊 /zo/
+🔊 /zə/
 
 # cyst
 
 ![cyst](fonts/cyst.svg)
 
-🔊 /zə/
+🔊 /ze/
 
 # cysy
 
@@ -1466,19 +1466,19 @@
 
 ![uash](fonts/uash.svg)
 
-🔊 /tʃe/
+🔊 /tʃo/
 
 # uaj3
 
 ![uaj3](fonts/uaj3.svg)
 
-🔊 /tʃo/
+🔊 /tʃə/
 
 # uast
 
 ![uast](fonts/uast.svg)
 
-🔊 /tʃə/
+🔊 /tʃe/
 
 # uasy
 
@@ -1562,19 +1562,19 @@
 
 ![1xsh](fonts/1xsh.svg)
 
-🔊 /dʒe/
+🔊 /dʒo/
 
 # 1xj3
 
 ![1xj3](fonts/1xj3.svg)
 
-🔊 /dʒo/
+🔊 /dʒə/
 
 # 1xst
 
 ![1xst](fonts/1xst.svg)
 
-🔊 /dʒə/
+🔊 /dʒe/
 
 # 1xsy
 

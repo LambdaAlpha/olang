@@ -24,17 +24,17 @@
 ## sh
 ![sh](fonts/sh.svg)
 
-🔊: /e/
+🔊: /o/
 
 ## j3
 ![j3](fonts/j3.svg)
 
-🔊: /o/
+🔊: /ə/
 
 ## st
 ![st](fonts/st.svg)
 
-🔊: /ə/
+🔊: /e/
 
 ## sy
 ![sy](fonts/sy.svg)
