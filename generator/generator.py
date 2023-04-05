@@ -10,68 +10,68 @@ class Char:
 c1l = Char()
 c1l.char = "-"
 c1l.name = "1l"
-c1l.phoneme = "m"
-c1l.syllable = "ma"
+c1l.phoneme = "k"
+c1l.syllable = "ka"
 
 c2l = Char()
 c2l.char = "="
 c2l.name = "2l"
-c2l.phoneme = "k"
-c2l.syllable = "ka"
+c2l.phoneme = "g"
+c2l.syllable = "ga"
 
 c3l = Char()
 c3l.char = "Ξ"
 c3l.name = "3l"
-c3l.phoneme = "j"
-c3l.syllable = "ja"
+c3l.phoneme = "p"
+c3l.syllable = "pa"
 
 cj1 = Char()
 cj1.char = "|"
 cj1.name = "j1"
-cj1.phoneme = "p"
-cj1.syllable = "pa"
+cj1.phoneme = "b"
+cj1.syllable = "ba"
 
 ccl = Char()
 ccl.char = "L"
 ccl.name = "cl"
-ccl.phoneme = "w"
-ccl.syllable = "wa"
+ccl.phoneme = "t"
+ccl.syllable = "ta"
 
 cad = Char()
 cad.char = "+"
 cad.name = "ad"
-cad.phoneme = "n"
-cad.syllable = "na"
+cad.phoneme = "d"
+cad.syllable = "da"
 
 ctt = Char()
 ctt.char = "Ʇ"
 ctt.name = "tt"
-ctt.phoneme = "t"
-ctt.syllable = "ta"
+ctt.phoneme = "f"
+ctt.syllable = "fa"
 
 cct = Char()
 cct.char = "T"
 cct.name = "ct"
-cct.phoneme = "l"
-cct.syllable = "la"
+cct.phoneme = "v"
+cct.syllable = "va"
 
 cuu = Char()
 cuu.char = "ʌ"
 cuu.name = "uu"
-cuu.phoneme = "s"
-cuu.syllable = "sa"
+cuu.phoneme = "m"
+cuu.syllable = "ma"
 
 cdd = Char()
 cdd.char = "v"
 cdd.name = "dd"
-cdd.phoneme = "b"
-cdd.syllable = "ba"
+cdd.phoneme = "n"
+cdd.syllable = "na"
 
 cll = Char()
 cll.char = "<"
 cll.name = "ll"
-cll.phoneme = "g"
-cll.syllable = "ga"
+cll.phoneme = "l"
+cll.syllable = "la"
 
 crr = Char()
 crr.char = ">"
@@ -82,26 +82,26 @@ crr.syllable = "ha"
 ccn = Char()
 ccn.char = "N"
 ccn.name = "cn"
-ccn.phoneme = "d"
-ccn.syllable = "da"
+ccn.phoneme = "s"
+ccn.syllable = "sa"
 
 ccy = Char()
 ccy.char = "Y"
 ccy.name = "cy"
-ccy.phoneme = "r"
-ccy.syllable = "ra"
+ccy.phoneme = "z"
+ccy.syllable = "za"
 
 cua = Char()
 cua.char = "𐋇"
 cua.name = "ua"
-cua.phoneme = "f"
-cua.syllable = "fa"
+cua.phoneme = "tʃ"
+cua.syllable = "tʃa"
 
 c1x = Char()
 c1x.char = "𐋁"
 c1x.name = "1x"
-c1x.phoneme = "tʃ"
-c1x.syllable = "tʃa"
+c1x.phoneme = "dʒ"
+c1x.syllable = "dʒa"
 
 consonants = [c1l, c2l, c3l, cj1, ccl, cad, ctt, cct,
               cuu, cdd, cll, crr, ccn, ccy, cua, c1x]

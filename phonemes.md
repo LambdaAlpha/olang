@@ -86,57 +86,57 @@
 ## 1l
 ![1l](fonts/1l.svg)
 
-🔊: /m/
+🔊: /k/
 
 ## 2l
 ![2l](fonts/2l.svg)
 
-🔊: /k/
+🔊: /g/
 
 ## 3l
 ![3l](fonts/3l.svg)
 
-🔊: /j/
+🔊: /p/
 
 ## j1
 ![j1](fonts/j1.svg)
 
-🔊: /p/
+🔊: /b/
 
 ## cl
 ![cl](fonts/cl.svg)
 
-🔊: /w/
+🔊: /t/
 
 ## ad
 ![ad](fonts/ad.svg)
 
-🔊: /n/
+🔊: /d/
 
 ## tt
 ![tt](fonts/tt.svg)
 
-🔊: /t/
+🔊: /f/
 
 ## ct
 ![ct](fonts/ct.svg)
 
-🔊: /l/
+🔊: /v/
 
 ## uu
 ![uu](fonts/uu.svg)
 
-🔊: /s/
+🔊: /m/
 
 ## dd
 ![dd](fonts/dd.svg)
 
-🔊: /b/
+🔊: /n/
 
 ## ll
 ![ll](fonts/ll.svg)
 
-🔊: /g/
+🔊: /l/
 
 ## rr
 ![rr](fonts/rr.svg)
@@ -146,19 +146,19 @@
 ## cn
 ![cn](fonts/cn.svg)
 
-🔊: /d/
+🔊: /s/
 
 ## cy
 ![cy](fonts/cy.svg)
 
-🔊: /r/
+🔊: /z/
 
 ## ua
 ![ua](fonts/ua.svg)
 
-🔊: /f/
+🔊: /tʃ/
 
 ## 1x
 ![1x](fonts/1x.svg)
 
-🔊: /tʃ/
+🔊: /dʒ/
