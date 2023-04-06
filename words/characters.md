@@ -44,6 +44,8 @@
 
 [🔊](../syllables.md#co)
 
+[meaning](../concepts/numbers.md#zero)
+
 ## j6
 ![j6](../fonts/j6.svg)
 
@@ -84,25 +86,35 @@
 
 [🔊](../syllables.md#1lcs)
 
+[meaning](../concepts/numbers.md#one)
+
 ## 2l
 ![2l](../fonts/2l.svg)
 
 [🔊](../syllables.md#2lcs)
+
+[meaning](../concepts/numbers.md#two)
 
 ## 3l
 ![3l](../fonts/3l.svg)
 
 [🔊](../syllables.md#3lcs)
 
+[meaning](../concepts/numbers.md#three)
+
 ## j1
 ![j1](../fonts/j1.svg)
 
 [🔊](../syllables.md#j1cs)
 
+[meaning](../concepts/numbers.md#four)
+
 ## cl
 ![cl](../fonts/cl.svg)
 
 [🔊](../syllables.md#clcs)
+
+[meaning](../concepts/numbers.md#five)
 
 ## ad
 ![ad](../fonts/ad.svg)
@@ -158,17 +170,25 @@
 
 [🔊](../syllables.md#cncs)
 
+[meaning](../concepts/numbers.md#six)
+
 ## cy
 ![cy](../fonts/cy.svg)
 
 [🔊](../syllables.md#cycs)
+
+[meaning](../concepts/numbers.md#seven)
 
 ## ua
 ![ua](../fonts/ua.svg)
 
 [🔊](../syllables.md#uacs)
 
+[meaning](../concepts/numbers.md#eight)
+
 ## 1x
 ![1x](../fonts/1x.svg)
 
 [🔊](../syllables.md#1xcs)
+
+[meaning](../concepts/numbers.md#nine)
