@@ -46,26 +46,26 @@ cad.syllable = "da"
 ctt = Char()
 ctt.char = "Ʇ"
 ctt.name = "tt"
-ctt.phoneme = "f"
-ctt.syllable = "fa"
+ctt.phoneme = "m"
+ctt.syllable = "ma"
 
 cct = Char()
 cct.char = "T"
 cct.name = "ct"
-cct.phoneme = "v"
-cct.syllable = "va"
+cct.phoneme = "n"
+cct.syllable = "na"
 
 cuu = Char()
 cuu.char = "ʌ"
 cuu.name = "uu"
-cuu.phoneme = "m"
-cuu.syllable = "ma"
+cuu.phoneme = "h"
+cuu.syllable = "ha"
 
 cdd = Char()
 cdd.char = "v"
 cdd.name = "dd"
-cdd.phoneme = "n"
-cdd.syllable = "na"
+cdd.phoneme = "f"
+cdd.syllable = "fa"
 
 cll = Char()
 cll.char = "<"
@@ -76,32 +76,32 @@ cll.syllable = "la"
 crr = Char()
 crr.char = ">"
 crr.name = "rr"
-crr.phoneme = "h"
-crr.syllable = "ha"
+crr.phoneme = "s"
+crr.syllable = "sa"
 
 ccn = Char()
 ccn.char = "N"
 ccn.name = "cn"
-ccn.phoneme = "s"
-ccn.syllable = "sa"
+ccn.phoneme = "gl"
+ccn.syllable = "gla"
 
 ccy = Char()
 ccy.char = "Y"
 ccy.name = "cy"
-ccy.phoneme = "z"
-ccy.syllable = "za"
+ccy.phoneme = "bl"
+ccy.syllable = "bla"
 
 cua = Char()
 cua.char = "𐋇"
 cua.name = "ua"
-cua.phoneme = "tʃ"
-cua.syllable = "tʃa"
+cua.phoneme = "sk"
+cua.syllable = "ska"
 
 c1x = Char()
 c1x.char = "𐋁"
 c1x.name = "1x"
-c1x.phoneme = "dʒ"
-c1x.syllable = "dʒa"
+c1x.phoneme = "sp"
+c1x.syllable = "spa"
 
 consonants = [c1l, c2l, c3l, cj1, ccl, cad, ctt, cct,
               cuu, cdd, cll, crr, ccn, ccy, cua, c1x]

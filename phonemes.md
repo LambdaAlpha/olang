@@ -116,22 +116,22 @@
 ## tt
 ![tt](fonts/tt.svg)
 
-🔊: /f/
+🔊: /m/
 
 ## ct
 ![ct](fonts/ct.svg)
 
-🔊: /v/
+🔊: /n/
 
 ## uu
 ![uu](fonts/uu.svg)
 
-🔊: /m/
+🔊: /h/
 
 ## dd
 ![dd](fonts/dd.svg)
 
-🔊: /n/
+🔊: /f/
 
 ## ll
 ![ll](fonts/ll.svg)
@@ -141,24 +141,24 @@
 ## rr
 ![rr](fonts/rr.svg)
 
-🔊: /h/
+🔊: /s/
 
 ## cn
 ![cn](fonts/cn.svg)
 
-🔊: /s/
+🔊: /gl/
 
 ## cy
 ![cy](fonts/cy.svg)
 
-🔊: /z/
+🔊: /bl/
 
 ## ua
 ![ua](fonts/ua.svg)
 
-🔊: /tʃ/
+🔊: /sk/
 
 ## 1x
 ![1x](fonts/1x.svg)
 
-🔊: /dʒ/
+🔊: /sp/

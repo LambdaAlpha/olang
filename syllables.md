@@ -674,385 +674,385 @@
 
 ![ttcs](fonts/ttcs.svg)
 
-🔊 /fa/
+🔊 /ma/
 
 # ttcj
 
 ![ttcj](fonts/ttcj.svg)
 
-🔊 /fi/
+🔊 /mi/
 
 # ttj2
 
 ![ttj2](fonts/ttj2.svg)
 
-🔊 /fu/
+🔊 /mu/
 
 # ttsr
 
 ![ttsr](fonts/ttsr.svg)
 
-🔊 /fɔ/
+🔊 /mɔ/
 
 # ttsh
 
 ![ttsh](fonts/ttsh.svg)
 
-🔊 /fo/
+🔊 /mo/
 
 # ttj3
 
 ![ttj3](fonts/ttj3.svg)
 
-🔊 /fə/
+🔊 /mə/
 
 # ttst
 
 ![ttst](fonts/ttst.svg)
 
-🔊 /fe/
+🔊 /me/
 
 # ttsy
 
 ![ttsy](fonts/ttsy.svg)
 
-🔊 /fy/
+🔊 /my/
 
 # ttco
 
 ![ttco](fonts/ttco.svg)
 
-🔊 /fia/
+🔊 /mia/
 
 # ttj6
 
 ![ttj6](fonts/ttj6.svg)
 
-🔊 /fiu/
+🔊 /miu/
 
 # ttsd
 
 ![ttsd](fonts/ttsd.svg)
 
-🔊 /fie/
+🔊 /mie/
 
 # ttcd
 
 ![ttcd](fonts/ttcd.svg)
 
-🔊 /fye/
+🔊 /mye/
 
 # ttse
 
 ![ttse](fonts/ttse.svg)
 
-🔊 /fua/
+🔊 /mua/
 
 # ttrh
 
 ![ttrh](fonts/ttrh.svg)
 
-🔊 /fui/
+🔊 /mui/
 
 # ttfi
 
 ![ttfi](fonts/ttfi.svg)
 
-🔊 /fuo/
+🔊 /muo/
 
 # ttj8
 
 ![ttj8](fonts/ttj8.svg)
 
-🔊 /fai/
+🔊 /mai/
 
 # ctcs
 
 ![ctcs](fonts/ctcs.svg)
 
-🔊 /va/
+🔊 /na/
 
 # ctcj
 
 ![ctcj](fonts/ctcj.svg)
 
-🔊 /vi/
+🔊 /ni/
 
 # ctj2
 
 ![ctj2](fonts/ctj2.svg)
 
-🔊 /vu/
+🔊 /nu/
 
 # ctsr
 
 ![ctsr](fonts/ctsr.svg)
 
-🔊 /vɔ/
+🔊 /nɔ/
 
 # ctsh
 
 ![ctsh](fonts/ctsh.svg)
 
-🔊 /vo/
+🔊 /no/
 
 # ctj3
 
 ![ctj3](fonts/ctj3.svg)
 
-🔊 /və/
+🔊 /nə/
 
 # ctst
 
 ![ctst](fonts/ctst.svg)
 
-🔊 /ve/
+🔊 /ne/
 
 # ctsy
 
 ![ctsy](fonts/ctsy.svg)
 
-🔊 /vy/
+🔊 /ny/
 
 # ctco
 
 ![ctco](fonts/ctco.svg)
 
-🔊 /via/
+🔊 /nia/
 
 # ctj6
 
 ![ctj6](fonts/ctj6.svg)
 
-🔊 /viu/
+🔊 /niu/
 
 # ctsd
 
 ![ctsd](fonts/ctsd.svg)
 
-🔊 /vie/
+🔊 /nie/
 
 # ctcd
 
 ![ctcd](fonts/ctcd.svg)
 
-🔊 /vye/
+🔊 /nye/
 
 # ctse
 
 ![ctse](fonts/ctse.svg)
 
-🔊 /vua/
+🔊 /nua/
 
 # ctrh
 
 ![ctrh](fonts/ctrh.svg)
 
-🔊 /vui/
+🔊 /nui/
 
 # ctfi
 
 ![ctfi](fonts/ctfi.svg)
 
-🔊 /vuo/
+🔊 /nuo/
 
 # ctj8
 
 ![ctj8](fonts/ctj8.svg)
 
-🔊 /vai/
+🔊 /nai/
 
 # uucs
 
 ![uucs](fonts/uucs.svg)
 
-🔊 /ma/
+🔊 /ha/
 
 # uucj
 
 ![uucj](fonts/uucj.svg)
 
-🔊 /mi/
+🔊 /hi/
 
 # uuj2
 
 ![uuj2](fonts/uuj2.svg)
 
-🔊 /mu/
+🔊 /hu/
 
 # uusr
 
 ![uusr](fonts/uusr.svg)
 
-🔊 /mɔ/
+🔊 /hɔ/
 
 # uush
 
 ![uush](fonts/uush.svg)
 
-🔊 /mo/
+🔊 /ho/
 
 # uuj3
 
 ![uuj3](fonts/uuj3.svg)
 
-🔊 /mə/
+🔊 /hə/
 
 # uust
 
 ![uust](fonts/uust.svg)
 
-🔊 /me/
+🔊 /he/
 
 # uusy
 
 ![uusy](fonts/uusy.svg)
 
-🔊 /my/
+🔊 /hy/
 
 # uuco
 
 ![uuco](fonts/uuco.svg)
 
-🔊 /mia/
+🔊 /hia/
 
 # uuj6
 
 ![uuj6](fonts/uuj6.svg)
 
-🔊 /miu/
+🔊 /hiu/
 
 # uusd
 
 ![uusd](fonts/uusd.svg)
 
-🔊 /mie/
+🔊 /hie/
 
 # uucd
 
 ![uucd](fonts/uucd.svg)
 
-🔊 /mye/
+🔊 /hye/
 
 # uuse
 
 ![uuse](fonts/uuse.svg)
 
-🔊 /mua/
+🔊 /hua/
 
 # uurh
 
 ![uurh](fonts/uurh.svg)
 
-🔊 /mui/
+🔊 /hui/
 
 # uufi
 
 ![uufi](fonts/uufi.svg)
 
-🔊 /muo/
+🔊 /huo/
 
 # uuj8
 
 ![uuj8](fonts/uuj8.svg)
 
-🔊 /mai/
+🔊 /hai/
 
 # ddcs
 
 ![ddcs](fonts/ddcs.svg)
 
-🔊 /na/
+🔊 /fa/
 
 # ddcj
 
 ![ddcj](fonts/ddcj.svg)
 
-🔊 /ni/
+🔊 /fi/
 
 # ddj2
 
 ![ddj2](fonts/ddj2.svg)
 
-🔊 /nu/
+🔊 /fu/
 
 # ddsr
 
 ![ddsr](fonts/ddsr.svg)
 
-🔊 /nɔ/
+🔊 /fɔ/
 
 # ddsh
 
 ![ddsh](fonts/ddsh.svg)
 
-🔊 /no/
+🔊 /fo/
 
 # ddj3
 
 ![ddj3](fonts/ddj3.svg)
 
-🔊 /nə/
+🔊 /fə/
 
 # ddst
 
 ![ddst](fonts/ddst.svg)
 
-🔊 /ne/
+🔊 /fe/
 
 # ddsy
 
 ![ddsy](fonts/ddsy.svg)
 
-🔊 /ny/
+🔊 /fy/
 
 # ddco
 
 ![ddco](fonts/ddco.svg)
 
-🔊 /nia/
+🔊 /fia/
 
 # ddj6
 
 ![ddj6](fonts/ddj6.svg)
 
-🔊 /niu/
+🔊 /fiu/
 
 # ddsd
 
 ![ddsd](fonts/ddsd.svg)
 
-🔊 /nie/
+🔊 /fie/
 
 # ddcd
 
 ![ddcd](fonts/ddcd.svg)
 
-🔊 /nye/
+🔊 /fye/
 
 # ddse
 
 ![ddse](fonts/ddse.svg)
 
-🔊 /nua/
+🔊 /fua/
 
 # ddrh
 
 ![ddrh](fonts/ddrh.svg)
 
-🔊 /nui/
+🔊 /fui/
 
 # ddfi
 
 ![ddfi](fonts/ddfi.svg)
 
-🔊 /nuo/
+🔊 /fuo/
 
 # ddj8
 
 ![ddj8](fonts/ddj8.svg)
 
-🔊 /nai/
+🔊 /fai/
 
 # llcs
 
@@ -1154,479 +1154,479 @@
 
 ![rrcs](fonts/rrcs.svg)
 
-🔊 /ha/
+🔊 /sa/
 
 # rrcj
 
 ![rrcj](fonts/rrcj.svg)
 
-🔊 /hi/
+🔊 /si/
 
 # rrj2
 
 ![rrj2](fonts/rrj2.svg)
 
-🔊 /hu/
+🔊 /su/
 
 # rrsr
 
 ![rrsr](fonts/rrsr.svg)
 
-🔊 /hɔ/
+🔊 /sɔ/
 
 # rrsh
 
 ![rrsh](fonts/rrsh.svg)
 
-🔊 /ho/
+🔊 /so/
 
 # rrj3
 
 ![rrj3](fonts/rrj3.svg)
 
-🔊 /hə/
+🔊 /sə/
 
 # rrst
 
 ![rrst](fonts/rrst.svg)
 
-🔊 /he/
+🔊 /se/
 
 # rrsy
 
 ![rrsy](fonts/rrsy.svg)
 
-🔊 /hy/
+🔊 /sy/
 
 # rrco
 
 ![rrco](fonts/rrco.svg)
 
-🔊 /hia/
+🔊 /sia/
 
 # rrj6
 
 ![rrj6](fonts/rrj6.svg)
 
-🔊 /hiu/
+🔊 /siu/
 
 # rrsd
 
 ![rrsd](fonts/rrsd.svg)
 
-🔊 /hie/
+🔊 /sie/
 
 # rrcd
 
 ![rrcd](fonts/rrcd.svg)
 
-🔊 /hye/
+🔊 /sye/
 
 # rrse
 
 ![rrse](fonts/rrse.svg)
 
-🔊 /hua/
+🔊 /sua/
 
 # rrrh
 
 ![rrrh](fonts/rrrh.svg)
 
-🔊 /hui/
+🔊 /sui/
 
 # rrfi
 
 ![rrfi](fonts/rrfi.svg)
 
-🔊 /huo/
+🔊 /suo/
 
 # rrj8
 
 ![rrj8](fonts/rrj8.svg)
 
-🔊 /hai/
+🔊 /sai/
 
 # cncs
 
 ![cncs](fonts/cncs.svg)
 
-🔊 /sa/
+🔊 /gla/
 
 # cncj
 
 ![cncj](fonts/cncj.svg)
 
-🔊 /si/
+🔊 /gli/
 
 # cnj2
 
 ![cnj2](fonts/cnj2.svg)
 
-🔊 /su/
+🔊 /glu/
 
 # cnsr
 
 ![cnsr](fonts/cnsr.svg)
 
-🔊 /sɔ/
+🔊 /glɔ/
 
 # cnsh
 
 ![cnsh](fonts/cnsh.svg)
 
-🔊 /so/
+🔊 /glo/
 
 # cnj3
 
 ![cnj3](fonts/cnj3.svg)
 
-🔊 /sə/
+🔊 /glə/
 
 # cnst
 
 ![cnst](fonts/cnst.svg)
 
-🔊 /se/
+🔊 /gle/
 
 # cnsy
 
 ![cnsy](fonts/cnsy.svg)
 
-🔊 /sy/
+🔊 /gly/
 
 # cnco
 
 ![cnco](fonts/cnco.svg)
 
-🔊 /sia/
+🔊 /glia/
 
 # cnj6
 
 ![cnj6](fonts/cnj6.svg)
 
-🔊 /siu/
+🔊 /gliu/
 
 # cnsd
 
 ![cnsd](fonts/cnsd.svg)
 
-🔊 /sie/
+🔊 /glie/
 
 # cncd
 
 ![cncd](fonts/cncd.svg)
 
-🔊 /sye/
+🔊 /glye/
 
 # cnse
 
 ![cnse](fonts/cnse.svg)
 
-🔊 /sua/
+🔊 /glua/
 
 # cnrh
 
 ![cnrh](fonts/cnrh.svg)
 
-🔊 /sui/
+🔊 /glui/
 
 # cnfi
 
 ![cnfi](fonts/cnfi.svg)
 
-🔊 /suo/
+🔊 /gluo/
 
 # cnj8
 
 ![cnj8](fonts/cnj8.svg)
 
-🔊 /sai/
+🔊 /glai/
 
 # cycs
 
 ![cycs](fonts/cycs.svg)
 
-🔊 /za/
+🔊 /bla/
 
 # cycj
 
 ![cycj](fonts/cycj.svg)
 
-🔊 /zi/
+🔊 /bli/
 
 # cyj2
 
 ![cyj2](fonts/cyj2.svg)
 
-🔊 /zu/
+🔊 /blu/
 
 # cysr
 
 ![cysr](fonts/cysr.svg)
 
-🔊 /zɔ/
+🔊 /blɔ/
 
 # cysh
 
 ![cysh](fonts/cysh.svg)
 
-🔊 /zo/
+🔊 /blo/
 
 # cyj3
 
 ![cyj3](fonts/cyj3.svg)
 
-🔊 /zə/
+🔊 /blə/
 
 # cyst
 
 ![cyst](fonts/cyst.svg)
 
-🔊 /ze/
+🔊 /ble/
 
 # cysy
 
 ![cysy](fonts/cysy.svg)
 
-🔊 /zy/
+🔊 /bly/
 
 # cyco
 
 ![cyco](fonts/cyco.svg)
 
-🔊 /zia/
+🔊 /blia/
 
 # cyj6
 
 ![cyj6](fonts/cyj6.svg)
 
-🔊 /ziu/
+🔊 /bliu/
 
 # cysd
 
 ![cysd](fonts/cysd.svg)
 
-🔊 /zie/
+🔊 /blie/
 
 # cycd
 
 ![cycd](fonts/cycd.svg)
 
-🔊 /zye/
+🔊 /blye/
 
 # cyse
 
 ![cyse](fonts/cyse.svg)
 
-🔊 /zua/
+🔊 /blua/
 
 # cyrh
 
 ![cyrh](fonts/cyrh.svg)
 
-🔊 /zui/
+🔊 /blui/
 
 # cyfi
 
 ![cyfi](fonts/cyfi.svg)
 
-🔊 /zuo/
+🔊 /bluo/
 
 # cyj8
 
 ![cyj8](fonts/cyj8.svg)
 
-🔊 /zai/
+🔊 /blai/
 
 # uacs
 
 ![uacs](fonts/uacs.svg)
 
-🔊 /tʃa/
+🔊 /ska/
 
 # uacj
 
 ![uacj](fonts/uacj.svg)
 
-🔊 /tʃi/
+🔊 /ski/
 
 # uaj2
 
 ![uaj2](fonts/uaj2.svg)
 
-🔊 /tʃu/
+🔊 /sku/
 
 # uasr
 
 ![uasr](fonts/uasr.svg)
 
-🔊 /tʃɔ/
+🔊 /skɔ/
 
 # uash
 
 ![uash](fonts/uash.svg)
 
-🔊 /tʃo/
+🔊 /sko/
 
 # uaj3
 
 ![uaj3](fonts/uaj3.svg)
 
-🔊 /tʃə/
+🔊 /skə/
 
 # uast
 
 ![uast](fonts/uast.svg)
 
-🔊 /tʃe/
+🔊 /ske/
 
 # uasy
 
 ![uasy](fonts/uasy.svg)
 
-🔊 /tʃy/
+🔊 /sky/
 
 # uaco
 
 ![uaco](fonts/uaco.svg)
 
-🔊 /tʃia/
+🔊 /skia/
 
 # uaj6
 
 ![uaj6](fonts/uaj6.svg)
 
-🔊 /tʃiu/
+🔊 /skiu/
 
 # uasd
 
 ![uasd](fonts/uasd.svg)
 
-🔊 /tʃie/
+🔊 /skie/
 
 # uacd
 
 ![uacd](fonts/uacd.svg)
 
-🔊 /tʃye/
+🔊 /skye/
 
 # uase
 
 ![uase](fonts/uase.svg)
 
-🔊 /tʃua/
+🔊 /skua/
 
 # uarh
 
 ![uarh](fonts/uarh.svg)
 
-🔊 /tʃui/
+🔊 /skui/
 
 # uafi
 
 ![uafi](fonts/uafi.svg)
 
-🔊 /tʃuo/
+🔊 /skuo/
 
 # uaj8
 
 ![uaj8](fonts/uaj8.svg)
 
-🔊 /tʃai/
+🔊 /skai/
 
 # 1xcs
 
 ![1xcs](fonts/1xcs.svg)
 
-🔊 /dʒa/
+🔊 /spa/
 
 # 1xcj
 
 ![1xcj](fonts/1xcj.svg)
 
-🔊 /dʒi/
+🔊 /spi/
 
 # 1xj2
 
 ![1xj2](fonts/1xj2.svg)
 
-🔊 /dʒu/
+🔊 /spu/
 
 # 1xsr
 
 ![1xsr](fonts/1xsr.svg)
 
-🔊 /dʒɔ/
+🔊 /spɔ/
 
 # 1xsh
 
 ![1xsh](fonts/1xsh.svg)
 
-🔊 /dʒo/
+🔊 /spo/
 
 # 1xj3
 
 ![1xj3](fonts/1xj3.svg)
 
-🔊 /dʒə/
+🔊 /spə/
 
 # 1xst
 
 ![1xst](fonts/1xst.svg)
 
-🔊 /dʒe/
+🔊 /spe/
 
 # 1xsy
 
 ![1xsy](fonts/1xsy.svg)
 
-🔊 /dʒy/
+🔊 /spy/
 
 # 1xco
 
 ![1xco](fonts/1xco.svg)
 
-🔊 /dʒia/
+🔊 /spia/
 
 # 1xj6
 
 ![1xj6](fonts/1xj6.svg)
 
-🔊 /dʒiu/
+🔊 /spiu/
 
 # 1xsd
 
 ![1xsd](fonts/1xsd.svg)
 
-🔊 /dʒie/
+🔊 /spie/
 
 # 1xcd
 
 ![1xcd](fonts/1xcd.svg)
 
-🔊 /dʒye/
+🔊 /spye/
 
 # 1xse
 
 ![1xse](fonts/1xse.svg)
 
-🔊 /dʒua/
+🔊 /spua/
 
 # 1xrh
 
 ![1xrh](fonts/1xrh.svg)
 
-🔊 /dʒui/
+🔊 /spui/
 
 # 1xfi
 
 ![1xfi](fonts/1xfi.svg)
 
-🔊 /dʒuo/
+🔊 /spuo/
 
 # 1xj8
 
 ![1xj8](fonts/1xj8.svg)
 
-🔊 /dʒai/
+🔊 /spai/
 
