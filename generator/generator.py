@@ -20,7 +20,7 @@ c2l.phoneme = "g"
 c2l.syllable = "ga"
 
 c3l = Char()
-c3l.char = "Ξ"
+c3l.char = "≡"
 c3l.name = "3l"
 c3l.phoneme = "p"
 c3l.syllable = "pa"
@@ -113,7 +113,7 @@ ccs.phoneme = "a"
 ccs.syllable = "a"
 
 ccj = Char()
-ccj.char = "J"
+ccj.char = "𝙹"
 ccj.name = "cj"
 ccj.phoneme = "i"
 ccj.syllable = "i"
@@ -149,7 +149,7 @@ cst.phoneme = "e"
 cst.syllable = "e"
 
 csy = Char()
-csy.char = "y"
+csy.char = "𝗒"
 csy.name = "sy"
 csy.phoneme = "y"
 csy.syllable = "y"
@@ -191,7 +191,7 @@ crh.phoneme = "ui"
 crh.syllable = "ui"
 
 cfi = Char()
-cfi.char = "ɸ"
+cfi.char = "𝜑"
 cfi.name = "fi"
 cfi.phoneme = "uo"
 cfi.syllable = "io"

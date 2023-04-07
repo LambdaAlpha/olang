@@ -10,7 +10,7 @@
 2 lines
 
 # 3l
-## Ξ
+## ≡
 
 3 lines
 
@@ -85,7 +85,7 @@ Up arrow
 capital s
 
 # cj
-## J
+## 𝙹
 
 capital j
 
@@ -115,7 +115,7 @@ just 3
 small t
 
 # sy
-## y
+## 𝗒
 
 small y
 
@@ -150,7 +150,7 @@ small e
 rams horn
 
 # fi
-## ɸ
+## 𝜑
 
 phi
 
