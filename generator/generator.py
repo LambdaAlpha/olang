@@ -94,14 +94,14 @@ ccy.syllable = "bla"
 cua = Char()
 cua.char = "𐋇"
 cua.name = "ua"
-cua.phoneme = "sk"
-cua.syllable = "ska"
+cua.phoneme = "st"
+cua.syllable = "sta"
 
 c1x = Char()
 c1x.char = "𐋁"
 c1x.name = "1x"
-c1x.phoneme = "sp"
-c1x.syllable = "spa"
+c1x.phoneme = "sm"
+c1x.syllable = "sma"
 
 consonants = [c1l, c2l, c3l, cj1, ccl, cad, ctt, cct,
               cuu, cdd, cll, crr, ccn, ccy, cua, c1x]

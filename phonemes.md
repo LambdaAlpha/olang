@@ -156,9 +156,9 @@
 ## ua
 ![ua](fonts/ua.svg)
 
-🔊: /sk/
+🔊: /st/
 
 ## 1x
 ![1x](fonts/1x.svg)
 
-🔊: /sp/
+🔊: /sm/

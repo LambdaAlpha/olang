@@ -1442,191 +1442,191 @@
 
 ![uacs](fonts/uacs.svg)
 
-🔊 /ska/
+🔊 /sta/
 
 # uacj
 
 ![uacj](fonts/uacj.svg)
 
-🔊 /ski/
+🔊 /sti/
 
 # uaj2
 
 ![uaj2](fonts/uaj2.svg)
 
-🔊 /sku/
+🔊 /stu/
 
 # uasr
 
 ![uasr](fonts/uasr.svg)
 
-🔊 /skɔ/
+🔊 /stɔ/
 
 # uash
 
 ![uash](fonts/uash.svg)
 
-🔊 /sko/
+🔊 /sto/
 
 # uaj3
 
 ![uaj3](fonts/uaj3.svg)
 
-🔊 /skə/
+🔊 /stə/
 
 # uast
 
 ![uast](fonts/uast.svg)
 
-🔊 /ske/
+🔊 /ste/
 
 # uasy
 
 ![uasy](fonts/uasy.svg)
 
-🔊 /sky/
+🔊 /sty/
 
 # uaco
 
 ![uaco](fonts/uaco.svg)
 
-🔊 /skia/
+🔊 /stia/
 
 # uaj6
 
 ![uaj6](fonts/uaj6.svg)
 
-🔊 /skiu/
+🔊 /stiu/
 
 # uasd
 
 ![uasd](fonts/uasd.svg)
 
-🔊 /skie/
+🔊 /stie/
 
 # uacd
 
 ![uacd](fonts/uacd.svg)
 
-🔊 /skye/
+🔊 /stye/
 
 # uase
 
 ![uase](fonts/uase.svg)
 
-🔊 /skua/
+🔊 /stua/
 
 # uarh
 
 ![uarh](fonts/uarh.svg)
 
-🔊 /skui/
+🔊 /stui/
 
 # uafi
 
 ![uafi](fonts/uafi.svg)
 
-🔊 /skuo/
+🔊 /stuo/
 
 # uaj8
 
 ![uaj8](fonts/uaj8.svg)
 
-🔊 /skai/
+🔊 /stai/
 
 # 1xcs
 
 ![1xcs](fonts/1xcs.svg)
 
-🔊 /spa/
+🔊 /sma/
 
 # 1xcj
 
 ![1xcj](fonts/1xcj.svg)
 
-🔊 /spi/
+🔊 /smi/
 
 # 1xj2
 
 ![1xj2](fonts/1xj2.svg)
 
-🔊 /spu/
+🔊 /smu/
 
 # 1xsr
 
 ![1xsr](fonts/1xsr.svg)
 
-🔊 /spɔ/
+🔊 /smɔ/
 
 # 1xsh
 
 ![1xsh](fonts/1xsh.svg)
 
-🔊 /spo/
+🔊 /smo/
 
 # 1xj3
 
 ![1xj3](fonts/1xj3.svg)
 
-🔊 /spə/
+🔊 /smə/
 
 # 1xst
 
 ![1xst](fonts/1xst.svg)
 
-🔊 /spe/
+🔊 /sme/
 
 # 1xsy
 
 ![1xsy](fonts/1xsy.svg)
 
-🔊 /spy/
+🔊 /smy/
 
 # 1xco
 
 ![1xco](fonts/1xco.svg)
 
-🔊 /spia/
+🔊 /smia/
 
 # 1xj6
 
 ![1xj6](fonts/1xj6.svg)
 
-🔊 /spiu/
+🔊 /smiu/
 
 # 1xsd
 
 ![1xsd](fonts/1xsd.svg)
 
-🔊 /spie/
+🔊 /smie/
 
 # 1xcd
 
 ![1xcd](fonts/1xcd.svg)
 
-🔊 /spye/
+🔊 /smye/
 
 # 1xse
 
 ![1xse](fonts/1xse.svg)
 
-🔊 /spua/
+🔊 /smua/
 
 # 1xrh
 
 ![1xrh](fonts/1xrh.svg)
 
-🔊 /spui/
+🔊 /smui/
 
 # 1xfi
 
 ![1xfi](fonts/1xfi.svg)
 
-🔊 /spuo/
+🔊 /smuo/
 
 # 1xj8
 
 ![1xj8](fonts/1xj8.svg)
 
-🔊 /spai/
+🔊 /smai/
 
