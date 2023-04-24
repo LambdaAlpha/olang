@@ -1,4 +1,8 @@
 
+# language
+
+语言
+
 # character
 
 字符
@@ -23,26 +27,10 @@
 
 词
 
-# noun
+# concept
 
-名词
+概念
 
-# verb
+# new-word
 
-动词
-
-# adjective
-
-形容词
-
-# nominalization
-
-名词化
-
-# verbalization
-
-动词化
-
-# adjectivization
-
-形容词化
+自造词

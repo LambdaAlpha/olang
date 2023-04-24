@@ -1,4 +1,8 @@
 
+# language
+
+[zh-Hans](../zh-Hans/concepts/meta.md#language)
+
 # character
 
 [zh-Hans](../zh-Hans/concepts/meta.md#character)
@@ -23,26 +27,11 @@
 
 [zh-Hans](../zh-Hans/concepts/meta.md#phrase)
 
-# noun
+# concept
 
-[zh-Hans](../zh-Hans/concepts/meta.md#noun)
+[zh-Hans](../zh-Hans/concepts/meta.md#concept)
 
-# verb
+# new-word
 
-[zh-Hans](../zh-Hans/concepts/meta.md#verb)
+[zh-Hans](../zh-Hans/concepts/meta.md#new-word)
 
-# adjective
-
-[zh-Hans](../zh-Hans/concepts/meta.md#adjective)
-
-# nominalization
-
-[zh-Hans](../zh-Hans/concepts/meta.md#nominalization)
-
-# verbalization
-
-[zh-Hans](../zh-Hans/concepts/meta.md#verbalization)
-
-# adjectivization
-
-[zh-Hans](../zh-Hans/concepts/meta.md#adjectivization)
