@@ -1,40 +1,40 @@
 
-# Zero
+# zero
 
 [zh-Hans](../zh-Hans/concepts/numbers.md#zero)
 
-# One
+# one
 
 [zh-Hans](../zh-Hans/concepts/numbers.md#one)
 
-# Two
+# two
 
 [zh-Hans](../zh-Hans/concepts/numbers.md#two)
 
-# Three
+# three
 
 [zh-Hans](../zh-Hans/concepts/numbers.md#three)
 
-# Four
+# four
 
 [zh-Hans](../zh-Hans/concepts/numbers.md#four)
 
-# Five
+# five
 
 [zh-Hans](../zh-Hans/concepts/numbers.md#five)
 
-# Six
+# six
 
 [zh-Hans](../zh-Hans/concepts/numbers.md#six)
 
-# Seven
+# seven
 
 [zh-Hans](../zh-Hans/concepts/numbers.md#seven)
 
-# Eight
+# eight
 
 [zh-Hans](../zh-Hans/concepts/numbers.md#eight)
 
-# Nine
+# nine
 
 [zh-Hans](../zh-Hans/concepts/numbers.md#nine)

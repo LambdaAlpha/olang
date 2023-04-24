@@ -1,28 +1,28 @@
 
-# Center
+# center
 
 [zh-Hans](../zh-Hans/concepts/directions.md#center)
 
-# Up
+# up
 
 [zh-Hans](../zh-Hans/concepts/directions.md#up)
 
-# Down
+# down
 
 [zh-Hans](../zh-Hans/concepts/directions.md#down)
 
-# Front
+# front
 
 [zh-Hans](../zh-Hans/concepts/directions.md#front)
 
-# Back
+# back
 
 [zh-Hans](../zh-Hans/concepts/directions.md#back)
 
-# Left
+# left
 
 [zh-Hans](../zh-Hans/concepts/directions.md#left)
 
-# Right
+# right
 
 [zh-Hans](../zh-Hans/concepts/directions.md#right)

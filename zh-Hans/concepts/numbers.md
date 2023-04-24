@@ -1,40 +1,40 @@
 
-# Zero
+# zero
 
 数字零
 
-# One
+# one
 
 数字一
 
-# Two
+# two
 
 数字二
 
-# Three
+# three
 
 数字三
 
-# Four
+# four
 
 数字四
 
-# Five
+# five
 
 数字五
 
-# Six
+# six
 
 数字六
 
-# Seven
+# seven
 
 数字七
 
-# Eight
+# eight
 
 数字八
 
-# Nine
+# nine
 
 数字九

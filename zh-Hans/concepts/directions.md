@@ -1,28 +1,28 @@
 
-# Center
+# center
 
 中
 
-# Up
+# up
 
 上
 
-# Down
+# down
 
 下
 
-# Front
+# front
 
 前
 
-# Back
+# back
 
 后
 
-# Left
+# left
 
 左
 
-# Right
+# right
 
 右

@@ -1,12 +1,12 @@
 
-# You
-
-[zh-Hans](../zh-Hans/concepts/person_pronouns.md#you)
-
-# I
+# i
 
 [zh-Hans](../zh-Hans/concepts/person_pronouns.md#i)
 
-# It
+# you
+
+[zh-Hans](../zh-Hans/concepts/person_pronouns.md#you)
+
+# it
 
 [zh-Hans](../zh-Hans/concepts/person_pronouns.md#it)
